@@ -1,0 +1,13 @@
+* 月曜日の献立
+** メニュー
+*** 1 週目
+- 牛丼
+  - [[https://chefgohan.gnavi.co.jp/detail/156][牛丼のレシピ]]
+- きんぴらごぼう
+  - [[https://chefgohan.gnavi.co.jp/detail/97][きんぴらごぼうのレシピ]]
+- 卵焼き
+  - [[https://chefgohan.gnavi.co.jp/detail/90][卵焼きのレシピ]]
+- ほうれんそうのおひたし
+  - [[https://chefgohan.gnavi.co.jp/detail/4367][おひたしのレシピ]]
+- キャベツの千切り
+  - [[https://www.sirogohan.com/recipe/kyabesen/][千切りやりかた]]
