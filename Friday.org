@@ -1,0 +1,13 @@
+* 金曜日の献立
+** メニュー
+*** 1 週目
+- 肉じゃが
+  - [[https://chefgohan.gnavi.co.jp/detail/95][肉じゃがのレシピ]]
+- 野菜の白和え（白酢和え）
+  - [[https://chefgohan.gnavi.co.jp/detail/4539][野菜の白和え（白酢和え）のレシピ]]
+- なすの田楽　鶏そぼろ味噌焼
+  - [[https://chefgohan.gnavi.co.jp/detail/4973][なすの田楽　鶏そぼろ味噌焼のレシピ]]
+- 茄子の旨煮　揚げ桜海老
+  - [[https://chefgohan.gnavi.co.jp/detail/4272][茄子の旨煮　揚げ桜海老のレシピ]]
+- キャベツの千切り
+  - [[https://www.sirogohan.com/recipe/kyabesen/][千切りやりかた]]

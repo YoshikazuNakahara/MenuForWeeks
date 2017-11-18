@@ -1,0 +1,13 @@
+* 水曜日の献立
+** メニュー
+*** 1 週目
+- 西京焼き
+  - [[https://chefgohan.gnavi.co.jp/detail/4071][西京焼きのレシピ]]
+- 簡単ヘルシーがんもどき 香味野菜刻み
+  - [[https://chefgohan.gnavi.co.jp/detail/5081][簡単ヘルシーがんもどき 香味野菜刻みのレシピ]]
+- ひじきの煮物
+  - [[https://chefgohan.gnavi.co.jp/detail/152][ひじきの煮物のレシピ]]
+- 生姜焼き
+  - [[https://chefgohan.gnavi.co.jp/detail/155][生姜焼きのレシピ]]
+- キャベツの千切り
+  - [[https://www.sirogohan.com/recipe/kyabesen/][千切りやりかた]]

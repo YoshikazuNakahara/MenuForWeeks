@@ -1,0 +1,13 @@
+* 木曜日の献立
+** メニュー
+*** 1 週目
+- 鶏のから揚げ
+  - [[https://chefgohan.gnavi.co.jp/detail/91][鶏のから揚げのレシピ]]
+- 五目炊き込みごはん
+  - [[https://chefgohan.gnavi.co.jp/detail/147][五目炊き込みごはんのレシピ]]
+- 切り干し大根の煮物
+  - [[https://chefgohan.gnavi.co.jp/detail/151][切り干し大根の煮物のレシピ]]
+- 卯の花
+  - [[https://chefgohan.gnavi.co.jp/detail/469][卯の花のレシピ]]
+- キャベツの千切り
+  - [[https://www.sirogohan.com/recipe/kyabesen/][千切りやりかた]]

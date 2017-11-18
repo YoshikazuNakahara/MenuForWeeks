@@ -1,0 +1,13 @@
+* 火曜日の献立
+** メニュー
+*** 1 週目
+- 揚げ出し豆腐
+  - [[https://chefgohan.gnavi.co.jp/detail/4201][揚げ出し豆腐のレシピ]]
+- 秋刀魚の蒲焼
+  - [[https://chefgohan.gnavi.co.jp/detail/3509][秋刀魚の蒲焼（肝焼き）のレシピ]]
+- かぼちゃの煮物
+  - [[https://chefgohan.gnavi.co.jp/detail/241][かぼちゃの煮物のレシピ]]
+- 筑前煮
+  - [[https://chefgohan.gnavi.co.jp/detail/157][筑前煮のレシピ]]
+- キャベツの千切り
+  - [[https://www.sirogohan.com/recipe/kyabesen/][千切りやりかた]]
